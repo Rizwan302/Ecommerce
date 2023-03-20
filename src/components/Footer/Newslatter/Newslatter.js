@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Header() {
+function Newslatter() {
   return (
     <div>
-      Header
+      News
     </div>
   )
 }
 
-export default Header
+export default Newslatter
